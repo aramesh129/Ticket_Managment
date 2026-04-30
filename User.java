@@ -10,7 +10,6 @@ import java.util.ArrayList;
  * about the user's balance, username, password, first name, last name,
  * and the tickets they have previously bought.
  *
- * @author Corin Withers, Lab Section 36
  *
  * @version November 8th, 2025
  *
