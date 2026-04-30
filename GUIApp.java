@@ -11,7 +11,6 @@ import java.util.ArrayList;
  * The full client facing GUI of the application
  * also includes admin menu as well
  *
- * @author Akhil Kasturi, Ashvath Ramesh, Ben Miller, Corin Withers
  * @version 12/06/2025
  */
 
