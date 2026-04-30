@@ -11,7 +11,6 @@ import java.util.Scanner;
  * A simple command line client meant to test the
  * capabilities of the Sporting Event server.
  *
- * @author Corin Withers, Lab Section 36
  *
  * @version November 22nd, 2025
  *
