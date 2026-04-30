@@ -11,7 +11,6 @@ import java.util.GregorianCalendar;
  * the pricing of tickets, the availability of tickets,
  * and the layout of the seating.
  *
- * @author Corin Withers, Lab Section 36
  *
  * @version November 6th, 2025
  *
