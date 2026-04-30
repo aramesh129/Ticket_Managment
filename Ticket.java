@@ -10,7 +10,6 @@ import java.util.GregorianCalendar;
  * data about the event's date, the type of seating, the seat location,
  * and the two pricing categories.
  *
- * @author Corin Withers, Lab Section 36
  *
  * @version November 6th, 2025
  *
