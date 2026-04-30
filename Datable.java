@@ -9,7 +9,6 @@ import java.util.GregorianCalendar;
  * An interface for all classes which use the Gregorian Calendar
  * date, outlining the functions used in such classes.
  *
- * @author Corin Withers, Lab Section 36
  *
  * @version November 6th, 2025
  *
