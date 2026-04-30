@@ -5,7 +5,6 @@ import java.io.*;
 /**
  * CS 180 Team Project
  * Interface for the SportingEventServer
- * @author Ashvath Raj Ramesh, 36
  * @version Nov 23, 2025
  */
 
