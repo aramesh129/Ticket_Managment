@@ -7,7 +7,6 @@ package sporting_event_ticketmanager.src;
  * outlines the functions that will be used in the specified
  * class
  *
- * @author Corin Withers, Lab Section 36
  *
  * @version November 6th, 2025
  *
