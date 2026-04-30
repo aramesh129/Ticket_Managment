@@ -10,7 +10,6 @@ import java.util.GregorianCalendar;
  * Handles client connections and manages all server-side logic for
  * the Sporting Event ticket application.
  *
- * @author Ben Miller
  * @version 11/23/2025
  */
 public class SportingEventServer extends Thread implements SportingEventServerInterface {
