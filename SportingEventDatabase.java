@@ -6,7 +6,6 @@ import java.util.ArrayList;
 /**
  * CS180 Team Project
  * Database class for SportingEvents
- * @author - Akhil Kasturi, L36 Group 4
  * @version Nov 7, 2025
  */
 
